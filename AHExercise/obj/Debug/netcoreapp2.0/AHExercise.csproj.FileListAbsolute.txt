@@ -1,0 +1,11 @@
+C:\Users\stefan.AH\Source\Repos\AHExercise\AHExercise\bin\Debug\netcoreapp2.0\AHExercise.deps.json
+C:\Users\stefan.AH\Source\Repos\AHExercise\AHExercise\bin\Debug\netcoreapp2.0\AHExercise.runtimeconfig.json
+C:\Users\stefan.AH\Source\Repos\AHExercise\AHExercise\bin\Debug\netcoreapp2.0\AHExercise.runtimeconfig.dev.json
+C:\Users\stefan.AH\Source\Repos\AHExercise\AHExercise\bin\Debug\netcoreapp2.0\AHExercise.dll
+C:\Users\stefan.AH\Source\Repos\AHExercise\AHExercise\obj\Debug\netcoreapp2.0\AHExercise.csprojResolveAssemblyReference.cache
+C:\Users\stefan.AH\Source\Repos\AHExercise\AHExercise\obj\Debug\netcoreapp2.0\AHExercise.csproj.CoreCompileInputs.cache
+C:\Users\stefan.AH\Source\Repos\AHExercise\AHExercise\obj\Debug\netcoreapp2.0\AHExercise.AssemblyInfoInputs.cache
+C:\Users\stefan.AH\Source\Repos\AHExercise\AHExercise\obj\Debug\netcoreapp2.0\AHExercise.AssemblyInfo.cs
+C:\Users\stefan.AH\Source\Repos\AHExercise\AHExercise\bin\Debug\netcoreapp2.0\AHExercise.pdb
+C:\Users\stefan.AH\Source\Repos\AHExercise\AHExercise\obj\Debug\netcoreapp2.0\AHExercise.dll
+C:\Users\stefan.AH\Source\Repos\AHExercise\AHExercise\obj\Debug\netcoreapp2.0\AHExercise.pdb

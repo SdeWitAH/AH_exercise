@@ -1,0 +1,30 @@
+﻿
+@model AHExercise.Models.Products
+@{
+    ViewData["Title"] = "edit";
+}
+
+<h2>Manage Products</h2>
+
+<p>
+    <a asp-action="Create" asp-controller="Product">Create New</a>
+</p>
+
+
+<form asp-action="Edit">
+    <div class="form-horizontal">
+
+        <label>Id</label>
+        <input asp-for="Id" class="text-danger" disabled="disabled" />
+
+        <label>Name</label>
+        <input asp-for="Name" class="text-danger" />
+
+        <label>Price</label>
+        <input asp-for="Price" class="text-danger" />
+        <input type="submit" value="Save" class="btn btn-default" />
+    </div>
+</form>
+
+
+ 

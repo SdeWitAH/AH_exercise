@@ -1,0 +1,27 @@
+﻿
+@model AHExercise.Models.Company
+@{
+    ViewData["Title"] = "edit";
+}
+
+<h2>Manage Company</h2>
+
+<p>
+    <a asp-action="Create" asp-controller="Company">Create New</a>
+</p>
+
+
+<form asp-action="Edit">
+    <div class="form-horizontal">
+
+        <label>Id</label>
+        <input asp-for="Id" class="text-danger" disabled="disabled" />
+
+        <label>Name</label>
+        <input asp-for="Name" class="text-danger" />
+        <input type="submit" value="Save" class="btn btn-default" />
+    </div>
+</form>
+
+
+ 
